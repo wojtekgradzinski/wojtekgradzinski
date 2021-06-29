@@ -1,6 +1,6 @@
 - 😃 Welcome to my profie!
 - 👋 My name is Wojtek
-- 🖥️ I’m interested in Data Science and Crypto Trading Especially DeFi
+- 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi
 - 👨‍🎓 Currently studying AI Engineering
 - ✉️ Reach me at wojtekgradzinski@mail.com 
 
