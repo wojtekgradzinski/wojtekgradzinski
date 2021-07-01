@@ -4,7 +4,7 @@
 - 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi
 - 👨‍🎓 Currently studying AI Engineering
 - 💡 Do you have Data Science ideas you want to apply for trading? Let's talk about it!
-- ✉️ Reach me at:
+- Reach me at:
 <ul>
   <li style= "display:inline-block;">
 <a href="https://www.linkedin.com/in/wojciechgradzinski/" target = 'blank'><img align = "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li> 
