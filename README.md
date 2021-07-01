@@ -6,8 +6,7 @@
 - ✉️ Reach me at wojtekgradzinski@mail.com  | https://http://linkedin.com/in/wojciechgradzinski | http://twitter.com/WojcieszekGra
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="" />][linkedin]
+
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)
