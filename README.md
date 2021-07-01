@@ -14,7 +14,7 @@
 
 <div class="row">
   <div class="column">
-    <img scr=" https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical">
+    <a href" https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical"</a>
  </div>
   <div class="column">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=radical)
