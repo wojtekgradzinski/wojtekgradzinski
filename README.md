@@ -5,7 +5,7 @@
 - 👨‍🎓 Currently studying AI Engineering
 - 💡 Do you have Data Science ideas you want to apply for trading? Let's talk about it!
 - ✉️ Reach me at wojtekgradzinski@mail.com   
-<a href='https://linkedin.com/wojciechgradzinski'>![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)'  http://twitter.com/WojcieszekGra
+<a href="https://linkedin/in.com/wojciechgradzinski"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
 
 
 
