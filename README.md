@@ -7,6 +7,6 @@
 - ✉️ Reach me at wojtekgradzinski@mail.com  | https://http://linkedin.com/in/wojciechgradzinski | http://twitter.com/WojcieszekGra
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)
+
