@@ -14,7 +14,7 @@
 
 <div class="row">
   <div class="column">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)
+    <img scr=" https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical">
  </div>
   <div class="column">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=radical)
