@@ -12,10 +12,21 @@
 <a href="https://twitter.com/WojcieszekGra/" target = 'blank'><img align = "center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></li>
 </ul>
 
+<div class="row">
+  <div class="column">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)
-
+ </div>
+  <div class="column">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=radical)
-
-
-
-
+</div>
+  
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
