@@ -13,10 +13,10 @@
 </ul>
 
 <ul>
-<li![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)</li> 
+<li>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)</li> 
  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=radical)
-
+<li>![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=radical)</li> 
+</ul>
   
 
 
