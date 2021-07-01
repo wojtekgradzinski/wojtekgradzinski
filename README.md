@@ -14,4 +14,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekgradzinski&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekgradzinski&hide=javascript,css,html,html&theme=tokyonight)
