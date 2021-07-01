@@ -1,4 +1,4 @@
-- 😃 Welcome to my profie! ![Profile View Counter](https://komarev.com/ghpvc/?username=wojtekgradzinski)
+- 😃 Welcome to my profie! 
 - 👋 My name is Wojtek
 - 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi
 - 👨‍🎓 Currently studying AI Engineering
