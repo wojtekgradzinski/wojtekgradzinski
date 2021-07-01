@@ -9,12 +9,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekgradzinski&hide=javascript,css,html&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical
 
 
 
