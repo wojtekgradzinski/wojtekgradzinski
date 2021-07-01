@@ -1,3 +1,4 @@
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
 - 😃 Welcome to my profie! 
 - 👋 My name is Wojtek
 - 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi
