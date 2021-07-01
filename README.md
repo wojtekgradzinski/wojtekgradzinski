@@ -4,8 +4,19 @@
 - 👨‍🎓 Currently studying AI Engineering
 - 💡 Do you have Data Science ideas you want to apply for trading? Let's talk about it!
 - ✉️ Reach me at wojtekgradzinski@mail.com  |
-  [linkedin]:   https://www.linkedin.com/in/wojciechgradzinski |
-  [twitter]:    https://twitter.com/WojcieszekGra
+   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/wojciechgradzinski"
+
+ 
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/WojcieszekGra
+  
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekgradzinski&langs_count=5&theme=tokyonight)]()
