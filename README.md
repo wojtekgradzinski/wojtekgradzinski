@@ -20,13 +20,5 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=radical)
 </div>
   
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+
+
