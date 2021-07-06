@@ -16,7 +16,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical) 
 
- 
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> 
 
 
   
