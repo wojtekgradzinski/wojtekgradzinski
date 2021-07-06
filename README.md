@@ -5,12 +5,13 @@
 - 👨‍🎓 Currently studying AI Engineering
 - 💡 Do you have Data Science ideas you want to apply for trading? Let's talk about it!
 - Reach me at:
-<ul>
-  <li style= "display:inline-block;">
-<a href="https://www.linkedin.com/in/wojciechgradzinski/" target = 'blank'><img align = "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li> 
-  <li style= "display:inline-block;">
-<a href="https://twitter.com/WojcieszekGra/" target = 'blank'><img align = "center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></li>
-</ul>
+
+<div>
+   style= "display:inline-block;">
+<a href="https://www.linkedin.com/in/wojciechgradzinski/" target = 'blank'><img align = "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+   style= "display:inline-block;">
+<a href="https://twitter.com/WojcieszekGra/" target = 'blank'><img align = "center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</div>
 
   
 
