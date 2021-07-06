@@ -1,7 +1,7 @@
 
 - 😃 Welcome to my profie! 
-- 👋 My name is Wojtek 🚀
-- 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi
+- 👋 My name is Wojtek 
+- 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi🚀
 - 👨‍🎓 Currently studying AI Engineering
 - 💡 Do you have Data Science ideas you want to apply for trading? Let's talk about it!
 - Reach me at:
@@ -19,7 +19,10 @@
 <div>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
+<br>
+<div>
+<img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />    <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" /> <img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=litecoin&logoColor=white" /> <img src="https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white" /> 
+</div>
 
    
 
