@@ -1,6 +1,5 @@
+<h3 title="title"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Wojte</h3>
 
-- 😃 Welcome to my profie! 
-- 👋 My name is Wojtek 
 - 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi🚀
 - 👨‍🎓 Currently studying AI Engineering
 - 💡 Do you have Data Science ideas you want to apply for trading? Let's talk about it!
