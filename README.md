@@ -1,4 +1,4 @@
-<h3 title="title"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> my name Wojtek[Voytech]😃</h3>
+<h3 title="title"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> my name Wojtek [Voytech]😃</h3>
 
 - 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi🚀
 - 👨‍🎓 Currently studying AI Engineering
