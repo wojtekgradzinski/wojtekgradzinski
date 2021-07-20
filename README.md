@@ -1,7 +1,7 @@
-<h3 title="title"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Wojtek [Voytech]😃</h3>
-<div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wojtekgradzinski&show_icons=true&theme=radical) 
+
+<h3 title="title"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Wojtek [Voytech]😃</h3>
+
 - 🖥️ I’m passionate about Data Science and Crypto Trading Especially DeFi🚀
 - 👨‍🎓 Currently studying AI Engineering
 - 💡 Do you have Data Science ideas you want to apply for trading? Let's talk about it!
